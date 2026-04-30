@@ -85,7 +85,9 @@ Hoje estou em transição para a área de desenvolvimento, com foco em backend, 
 
 <br/>
 <br/>
----
+
+*********************
+
 ### 📊 Estatísticas
 
 <div align="center">
@@ -95,3 +97,10 @@ Hoje estou em transição para a área de desenvolvimento, com foco em backend, 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcus-Antonio1&layout=compact&theme=dark)
 
 </div>
+
+*******************
+
+<h3 align="center">Entre em contato:</h3>
+<p align="center"> 
+<a href="https://www.linkedin.com/in/marcus-toledo-3a380a231" target="blank"><img src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-808080?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</p>
