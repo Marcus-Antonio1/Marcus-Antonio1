@@ -85,7 +85,7 @@ Hoje estou em transição para a área de desenvolvimento, com foco em backend, 
 
 <br/>
 <br/>
-
+---
 ### 📊 Estatísticas
 
 <div align="center">
