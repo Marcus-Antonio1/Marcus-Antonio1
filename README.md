@@ -101,13 +101,7 @@ Hoje estou em transição para a área de desenvolvimento, com foco em backend, 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcus-Antonio1&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcus-Antonio1&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=10" 
   />
-
-  <div>
-            [![GitHub Streak](https://streak-stats.demolab.com?user=Marcus-Antonio1&theme=dark&locale=pt_BR)](https://git.io/streak-stats) 
-
-  </div>
-       
 
 </p>
