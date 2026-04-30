@@ -105,3 +105,10 @@ Hoje estou em transição para a área de desenvolvimento, com foco em backend, 
   />
 
 </p>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Marcus-Antonio1&theme=dark&locale=pt_BR)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcus-Antonio1&layout=compact&theme=dark)
+
+</div>
