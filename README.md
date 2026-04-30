@@ -88,26 +88,9 @@ Hoje estou em transição para a área de desenvolvimento, com foco em backend, 
 
 ### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Marcus-Antonio1&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcus-Antonio1&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=10" 
-  />
-
-</p>
-
 <div align="center">
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcus-Antonio1&show_icons=true&theme=radical)
 [![GitHub Streak](https://streak-stats.demolab.com?user=Marcus-Antonio1&theme=dark&locale=pt_BR)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcus-Antonio1&layout=compact&theme=dark)
 
