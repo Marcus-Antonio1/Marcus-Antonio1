@@ -91,8 +91,8 @@ Hoje estou em transição para a área de desenvolvimento, com foco em backend, 
 ### 📊 Estatísticas
 
 <div align="center">
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcus-Antonio1&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br)
+    
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Marcus-Antonio1&theme=aura_dark)
 [![GitHub Streak](https://streak-stats.demolab.com?user=Marcus-Antonio1&theme=dark&locale=pt_BR)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcus-Antonio1&layout=compact&theme=dark)
 
