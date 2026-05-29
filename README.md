@@ -1,10 +1,10 @@
 # 👨‍💻 Marcus Antônio
 
-**`Analista em transição para Desenvolvedor`**
+**`Desenvolvedor backend`**
 
-Me chamo Marcus Antônio, tenho 23 anos, sou formado em Sistemas de informação pela Unifacisa, Sou apaixonado por tecnologia e atualmente estou focado nos meus estudos para aprofundar os meus conhecimentos desenvolvendo projetos pessoais, tenho experiência com analise e suporte em sistema reais de produção onde atuei com redes e infraestrutura. Essa experiência me proporcionou uma visão prática de sistemas em produção, lidando com problemas reais, análise de logs e identificação de causas raiz.
-
-Hoje estou em transição para a área de desenvolvimento, com foco em backend, APIs e automação, buscando construir soluções eficientes com base em problemas do mundo real não apenas código, mas entendimento do comportamento dos sistemas.
+Me chamo Marcus Antônio, tenho 23 anos, sou formado em Sistemas de informação pela Unifacisa, possuo experiência prática em análise de sistemas, testes e troubleshooting em ambientes reais de 
+produção. Atualmente focado no desenvolvimento backend com Java e Spring Boot, aplicando conceitos de orientação a objetos, construção e consumo de APIs REST, além de testes automatizados e boas práticas de código. 
+Em evolução para atuação com microsserviços, mensageria, Docker e CI/CD, com capacidade de entender sistemas complexos, identificar falhas e propor melhorias. 
 
 ---
 
