@@ -2,9 +2,13 @@
 
 **`Desenvolvedor backend`**
 
-Me chamo Marcus Antônio, tenho 23 anos, sou formado em Sistemas de informação pela Unifacisa, possuo experiência prática em análise de sistemas, testes e troubleshooting em ambientes reais de 
-produção. Atualmente focado no desenvolvimento backend com Java e Spring Boot, aplicando conceitos de orientação a objetos, construção e consumo de APIs REST, além de testes automatizados e boas práticas de código. 
-Em evolução para atuação com microsserviços, mensageria, Docker e CI/CD, com capacidade de entender sistemas complexos, identificar falhas e propor melhorias. 
+Bacharel em Sistemas de Informação com experiência em análise de sistemas
+
+Atuei profissionalmente na IXC Soft, trabalhando com os sistemas IXC Provedor e IXC ACS, realizando análise de logs, troubleshooting de redes, diagnósticos em servidores Linux, investigação de falhas sistêmicas nos sistemas utilizados por provedores de internet em todo o Brasil.
+
+Possuo experiência com APIs REST, Java, Spring Boot, Linux, MySQL, MongoDB, Git, testes manuais, documentação e acompanhamento de bugs utilizando Jira, além de atuação em ambientes ágeis. Minha trajetória me proporcionou uma visão ampla do ciclo de vida de software, desde a identificação e análise de problemas até a validação e melhoria contínua de sistemas.
+
+Atualmente estou direcionando minha carreira para as áreas de Desenvolvimento Backend/fullstack, aprofundando conhecimentos em Java, Spring Boot, arquitetura de APIs, bancos de dados, AWS.
 
 ---
 
@@ -82,6 +86,43 @@ Em evolução para atuação com microsserviços, mensageria, Docker e CI/CD, co
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg"  
 />
+
+<img 
+    align="left" 
+    alt="AWS" 
+    title="AWS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"  
+/>
+
+<img 
+    align="left" 
+    alt="Docker" 
+    title="Docker"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"  
+/>
+
+<img 
+    align="left" 
+    alt="Swagger" 
+    title="Swagger"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg"  
+/>      
+
+<img 
+    align="left" 
+    alt="Node.js" 
+    title="Node.js"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"  
+/> 
+
 
 <br/>
 <br/>
