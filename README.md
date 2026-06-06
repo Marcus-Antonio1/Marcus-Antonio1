@@ -134,7 +134,7 @@ Atualmente estou direcionando minha carreira para as áreas de Desenvolvimento B
 <div align="center">
     
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Marcus-Antonio1&theme=nord_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcus-Antonio1&layout=compact&theme=dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcus-Antonio1&layout=compact&theme=dark)
 
 </div>
 
