@@ -6,19 +6,28 @@ Há +3 anos construindo resultados em tecnologia, suporte especializado, anális
 Experiência prática em Java, Spring Boot, APIs REST, SQL, MySQL, PostgreSQL, JPA/Hibernate, Docker, AWS, Linux, Git, Swagger/OpenAPI, Jira e documentação técnica
 
 Minha evolução profissional aconteceu de forma natural:
+
 Suporte Especializado → Troubleshooting → APIs REST → Desenvolvimento Back-end Java
 
 A atuação em ambientes de produção fortaleceu minha capacidade analítica e minha visão sobre sistemas críticos, permitindo atuar desde a investigação de falhas até o desenvolvimento de aplicações backend com foco em desempenho, estabilidade, escalabilidade e manutenção.
 Resultados:
+
 ✔ Contribuí para a análise e resolução de centenas de incidentes técnicos, investigando APIs REST, bancos de dados, logs e ambientes Linux em soluções utilizadas por +600 provedores de internet em todo o Brasil.
+
 ✔ Participei da identificação de causas raiz, troubleshooting de integrações, validação de correções e análise de comportamento de sistemas, trabalhando em conjunto com equipes de desenvolvimento.
+
 ✔ Desenvolvi aplicações backend com Java e Spring Boot, criando APIs REST, autenticação JWT, persistência com JPA/Hibernate, integração com bancos relacionais e documentação utilizando Swagger/OpenAPI.
+
 ✔ Desenvolvi projetos com integração de APIs externas, Docker, Git, AWS e bancos de dados relacionais, ampliando minha experiência em arquitetura backend e boas práticas de desenvolvimento.
+
 ✔ Atuei em testes funcionais, validação de versões e documentações técnicas melhorando em pelo menos 30% a clareza dos tickets e criação de wikis internas para o time assim contribuindo para a qualidade e evolução contínua das aplicações.
 
 Como faço isso:
+
 ✔ Desenvolvimento de APIs REST, integrações entre sistemas, modelagem de banco de dados, troubleshooting e análise de logs.
+
 ✔ Utilização de Java, Spring Boot, MySQL, PostgreSQL, Docker, AWS, Linux, Git, GitHub, MongoDB, React, JavaScript e Jira.
+
 ✔ Aplicação de arquitetura em camadas, orientação a objetos, documentação técnica, análise de causa raiz e resolução de problemas complexos.
 
 Falo Português (nativo) e Inglês (básico/intermediário) 
